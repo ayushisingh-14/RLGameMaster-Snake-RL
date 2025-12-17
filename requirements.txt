@@ -2,4 +2,6 @@ streamlit
 numpy
 matplotlib
 gymnasium
+
+--extra-index-url https://download.pytorch.org/whl/cpu
 torch==2.0.1
